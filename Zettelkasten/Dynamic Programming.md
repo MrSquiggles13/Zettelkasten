@@ -6,7 +6,9 @@
 
 ---
 ## Links
-[[Algorithms]]
+
+- [[Computer Program]]
+- [[Algorithm]]
 
 ---
 

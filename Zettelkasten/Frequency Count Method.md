@@ -1,7 +1,8 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
-# {{title}}
+202402020336
+# Frequency Count Method
 
 ## Notes
+
 
 
 ---
