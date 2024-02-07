@@ -8,6 +8,10 @@
 - I have had many a learning journey through the last four years with Computer Science in general and hope to expand on this
 
 ---
+## Electrical Engineering
+
+- I feel as though the foundational knowledge of this field of study will help better understand the complexities of low level computer science and help diminish the lines between the two studies
+---
 ## Mathematics
 
 - Mathematics has been a strong suite of mine but seem to lose this knowledge over time of not applying it. Which is a shame since it could help me a lot with my coding projects

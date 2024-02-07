@@ -6,7 +6,7 @@
 Some algorithms are written in a pseudo C syntax but does away with any unnecessary steps that would only be applicable in an actual C program i.e. declaring variables, giving variables data types
 
 _$Example:$_
-```
+```Haskell
 Algorithm swap(a, b){
 	temp <-- a;
 	a <-- b;
