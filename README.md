@@ -47,3 +47,16 @@
 - This is going to be an ongoing process and long over-do but I am excited to start this journey that I hope will help me with my endeavors.
 
 - It will not be easy and it will take a good bit before it has any real functionality or impact but I believe this is going to help organize my chaotic mind and help me finally draw everything together and hopefully retain information in a better fashion than what I was doing prior (Oh I'll just remember it). I don't believe in luck per se but I am definitely going to wish myself the best and if somehow someway someone else sees this I wish you the best as well.
+---
+
+## Study Guide
+
+- I added a loose study guide which is more of a list of material to go through and take notes on
+- I divided the material in generalized topics but am not going to limit myself to putting ideas derived from the material into those topics
+- Hopefully this will keep me on track and not let myself get stuck on what to learn next
+---
+
+## Note Taking Strategies
+
+- I thought it too meta to add what I learned from note taking strategies into my notes themselves (would make sense I guess but I am doing it this way no one can stop me)
+- This is going to be one document for now but maybe in the future I will make it into a folder

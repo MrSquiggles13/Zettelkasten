@@ -4,7 +4,7 @@ Links will have the current source being used (youtube video, article etc.) whil
 
 - [x] [Sample note taking set up](https://youtu.be/E6ySG7xYgjY?si=QHBYlIhqgsjwfkAS)
 - [x] [Zettelkasten theory](https://youtu.be/-r6fnC5lVfE?si=A_dTn696KIjuShSS)
-- [ ] [Atomic/Smart Notes](https://youtu.be/5O46Rqh5zHE?si=dYQVtfEk1akIXSef)
+- [x] [Atomic/Smart Notes](https://youtu.be/5O46Rqh5zHE?si=dYQVtfEk1akIXSef)
 - [ ] Atomic Habits - Book
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
