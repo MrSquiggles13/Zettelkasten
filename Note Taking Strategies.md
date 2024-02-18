@@ -32,3 +32,10 @@ Using the Zettelkasten system in a manner that fits what works with me as well i
 
 - Sources should have their own layout note as well as individual reference note for each topic if there is more than one
 - Note on sources themselves should be a brief overview with ideas derived from said source having their own respective notes
+
+
+## Miscellaneous
+
+- Be consistent with note taking
+- Get used to taking notes on anything that seems interesting to oneself
+- Organization should be organic through links and sources

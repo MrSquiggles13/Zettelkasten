@@ -1,5 +1,5 @@
 
-Links will have the current source being used (youtube video, article etc.) while unlinked will be marked with what the source is
+Links will have the current source being used (youtube video, web article etc.) while unlinked will be marked with what the source is
 # Studying
 
 - [x] [Sample note taking set up](https://youtu.be/E6ySG7xYgjY?si=QHBYlIhqgsjwfkAS)
@@ -23,4 +23,5 @@ Links will have the current source being used (youtube video, article etc.) whil
 
 # Mathematics
 
-- [ ] TBD
+- [ ] Khan Academy
+- [ ] 3 Blue 1 Brown
