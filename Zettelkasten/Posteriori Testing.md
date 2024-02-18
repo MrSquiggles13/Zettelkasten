@@ -13,3 +13,5 @@ To analyze how a program runs to be able to fix any bugs or optimize as seen fit
 ---
 
 ## Source
+
+- [Bari's Algorithm Playlist 1.1](https://youtu.be/-JTq1BFBwmo?si=5_bgFvYlUGB0Beha)

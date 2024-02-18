@@ -31,4 +31,4 @@ The time complexity is O(n$^3$) since n$^3$ is the highest degree in the polynom
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.5.1](https://youtu.be/9TlHvipP5yA?si=90wIwXbzUl7JRKfL)

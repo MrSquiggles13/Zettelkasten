@@ -56,10 +56,9 @@ For branching conditionals if there are 2 or more branches the time complexity w
 ## Links
 
 - [[How to Analyze an Algorithm]]
-- [[Algorithm]]
 
 ---
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.5.3](https://youtu.be/p1EnSvS3urU?si=rPEYUok8hOvExotn)

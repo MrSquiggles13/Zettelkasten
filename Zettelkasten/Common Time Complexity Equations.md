@@ -129,11 +129,9 @@ for(int i=0; i<n; i++) {
 ## Links
 
 - [[Time Complexity]]
-- [[Big O Notation]]
-- [[Frequency Count Method]]
 
 ---
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.5.2](https://youtu.be/9SgLBjXqwd4?si=ivqdZZ1Kb6mXiuJm)

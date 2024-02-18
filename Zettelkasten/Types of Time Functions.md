@@ -24,10 +24,10 @@ Order of efficiency:
 ## Links
 
 - [[Time Complexity]]
-- [[Algorithm]]
 
 ---
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.6](https://youtu.be/w7t4_JUUTeg?si=D6bkxIm2XzmW4DJo)
+- [Bari's Algorithm Playlist 1.7](https://youtu.be/5v-tKX2uRAk?si=agvTw6GHmkuQda1H)

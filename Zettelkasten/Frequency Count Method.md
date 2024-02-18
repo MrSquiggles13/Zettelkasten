@@ -30,7 +30,6 @@ Degree is measured by the largest magnitude of exponents of a variable (this is 
 ---
 ## Links
 
-- [[Algorithm]]
 - [[How to Analyze an Algorithm]]
 - [[Big O Notation]]
 - [[Time Complexity]]
@@ -40,4 +39,4 @@ Degree is measured by the largest magnitude of exponents of a variable (this is 
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.4](https://youtu.be/1U3Uwct45IY?si=unkbA28NQfBc5qbg)

@@ -10,7 +10,7 @@ It is written in the notation of O(X) (this would be pronounced "Oh of X") where
 ---
 ## Links
 
-- [[Algorithm]]
+- [[Asymptotic Notations]]
 
 ---
 

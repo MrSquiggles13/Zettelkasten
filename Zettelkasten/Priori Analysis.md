@@ -14,3 +14,5 @@ Break down and study the parts of an algorithm to understand how it works and ca
 ---
 
 ## Source
+
+- [Bari's Algorithm Playlist 1.1](https://youtu.be/-JTq1BFBwmo?si=5_bgFvYlUGB0Beha)

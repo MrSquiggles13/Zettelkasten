@@ -33,4 +33,4 @@
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.2](https://youtu.be/FbYzBWdhMb0?si=zvsB-RhXauYmSxgl)

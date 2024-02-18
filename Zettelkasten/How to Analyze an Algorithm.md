@@ -32,11 +32,10 @@
 
 - [[Priori Analysis]]
 - [[Algorithm]]
-- [[Steps to Write an Algorithm]]
 - [[Central Processing Unit Register]]
 
 ---
 
 ## Source
 
-- 
+- [Bari's Algorithm Playlist 1.3](https://youtu.be/xGYsEqe9Vl0?si=dNYDXANev8s8AJAC)
