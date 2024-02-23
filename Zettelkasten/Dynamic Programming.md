@@ -9,6 +9,7 @@
 
 - [[Computer Program]]
 - [[Algorithm]]
+- [[Problem Solving Strategy]]
 
 ---
 

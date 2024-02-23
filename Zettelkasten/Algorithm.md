@@ -20,6 +20,7 @@ Should be written in a way that is clear an concise and not necessarily in a pro
 ## Links
 
 - [[Computer Science]]
+- [[Data Structure]]
 
 ---
 
