@@ -129,6 +129,7 @@ for(int i=0; i<n; i++) {
 ## Links
 
 - [[Time Complexity]]
+- [[Sum of  n Natural Numbers Formula]]
 
 ---
 

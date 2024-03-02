@@ -15,7 +15,7 @@
 #### Cubic O(n$^3$)
 - Execution time is tripled for each increment of input taken in
 #### Exponential O(2$^n$)
-- Slowest amount of time that increases rapidly relative to input
+- Execution time that increases rapidly relative to input
 
 Order of efficiency:
 1 < log(n) < $\sqrt{n}$ < n < n(log(n)) < n$^2$ < n$^3$ . . . < 2$^n$ < 3$^n$ . . . < n$^n$
