@@ -10,7 +10,7 @@ A max heap is a complete binary tree with each node greater than or equal to all
 
 A min heap is a complete binary tree with each node less than or equal to all of its descendants
 
-Inserting an element into a max heap
+**_Inserting an element into a max heap_**
 ![[Pasted image 20240303042316.png]]
 
 First the element to be inserted is added as a child node that still satisfies the conditions of being a complete binary tree. Here it is the left child of node 15 since adding the element anywhere else would create gaps in the array representation of the binary tree.
@@ -18,7 +18,7 @@ Then the element is compared with its parent node and if the element is larger i
 
 The time complexity for inserting an element into a heap is $O(logn)$ since at max it will take the height of the tree to do so. Best case for insertion is $O(1)$
 
-Deleting an element from a max heap
+**_Deleting an element from a max heap_**
 ![[Pasted image 20240303052920.png]]
 
 In order to preserve the structure of a max heap only the root node can be deleted

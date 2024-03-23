@@ -12,7 +12,7 @@ First a binary tree is made using a list of elements
 Each element from leaf up is treated separately as its own heap and sorted accordingly
 
 ![[Pasted image 20240307012045.png]]
-When the root of the binary tree is reached the binary tree will be converted into a heap
+This process is repeated after the root is reached. When the root of the binary tree is reached and there were no swaps to be made the binary tree will be converted into a heap
 
 The time complexity of heapify is $O(n)$ since the time taken is dependent on the n number of elements in the list being converted to a heap
 
