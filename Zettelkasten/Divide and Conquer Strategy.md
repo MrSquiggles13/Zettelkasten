@@ -30,6 +30,7 @@ The problem (P) is an input for divide and conquer algorithm (DAC()). If the pro
 
 - [[Problem Solving Strategy]]
 - [[Algorithm]]
+- [[Decomposition Diagram]]
 
 ---
 

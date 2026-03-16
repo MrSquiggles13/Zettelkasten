@@ -24,7 +24,7 @@
 ---
 ## Biology
 
-- An interest of mine that is mostly fleeting but seems like it could e useful
+- An interest of mine that is mostly fleeting but seems like it could be useful
 
 ---
 ## Chemistry

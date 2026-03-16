@@ -1,14 +1,14 @@
-{{date:YYYYMMDD}}{{time:HHmm}}
+{{date:YYYYMMDD}}-{{time:HHmm}}
 # {{title}}
 
 ## Notes
+
 
 
 ---
 ## Links
 
 - 
-
 ---
 
 ## Source
