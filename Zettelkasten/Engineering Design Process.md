@@ -3,7 +3,7 @@
 
 ## Notes
 
-The Engineering Design Process or EDP for short is the methods and steps to creating a solution to a problem utilizing the engineering mindset. The EDP does not have to be in order nor should it constrict the creative process of engineering a solution. Documenting and communication is key to a successful solution as well as being thorough in description and consistency. It is essential that solutions should remain within the confines of the requirements and constraints of the problem as well be measurable against the criteria adhered for its components.
+The Engineering Design Process or EDP for short is the methods and steps to creating a solution to a problem utilizing the engineering mindset. The EDP does not have to be in order nor should it constrict the creative process of engineering a solution. Documenting and communication is key to a successful solution as well as being thorough in description and consistency. It is essential that solutions should remain within the confines of the requirements and constraints of the problem as well be measurable against the criteria adhered for its components. 
 
 **EDP Diagram:**
 ![[Pasted image 20260316025741.png]]
@@ -38,8 +38,10 @@ The Engineering Design Process or EDP for short is the methods and steps to crea
 - Organizing and documenting ideas is essential for to work towards an end solution
 - Prototyping can happen at any stage and is encouraged to create a tangible visual representation of the idea(s) at hand.
 - When brainstorming and designing ideas it can help to utilize a [[Decomposition Diagram]] to break down problems into smaller parts. These components can be designed individually and compared within their own requirements and criteria.
-- The criteria of each idea as it is modeled and created should adhere to the "How" of the solution and be quantitative. Comparison of these designs can show a combination of components that can lead to a more refined design.
-- After creating the model the product should be tested and improved as needed. As per the requirement standards each component should also be testable in a pass/fail manner. During the improvement phase utilization of the other steps of the EDP can and should be utilized it whatever order seems fit. 
+- The criteria of each idea as it is modeled and created should adhere to the "How" of the solution and be quantitative. Comparison of these designs can show a combination of components that can lead to a more refined design. This can be organized through the use of a [[Decision Matrix]] which helps score designs by their weighted criteria.
+- After creating the model the product should be tested and improved as needed. As per the requirement standards each component should also be testable in a pass/fail manner. During the improvement phase utilization of the other steps of the EDP can and should be utilized in whatever order seems fit. 
+
+When designing a solution one should keep in mind the practicality of the solution. Though on paper a solution might technically be correct it might not actually meet the needs of the end user. A problem as presented might not even be the actual problem but a surface level symptom of a root underlying problem. Feasibility of production or deployment must also be adhered to as if it is not practical or even possible to make how will it be made. Overall thorough research and understanding of the not just the problem but those who will use the solution must be understood and analyzed.
 
 
 ---
