@@ -32,6 +32,7 @@ As seen above needs to be definitive and readable for humans to understand its f
 
 - [[Algorithm]]
 - [[Characteristics of an Algorithm]]
+- [[Technical Communication]]
 
 ---
 
